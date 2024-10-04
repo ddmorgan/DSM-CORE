@@ -5,19 +5,20 @@ author: UPDATE                      # contributor's name
 date: 2024-01-01                        # format as year-mo-day
 category: [UPATE, UPDATE, UPDATE]   # list of various categories and keywords to help search
 ---
-# {{page.title}}
+# {{Machine Learning in Materials Science (MSE 661 at University of Wisconsin-Madison}}
 * * *
 
 ## Type of Content
-* UPDATE            # list of the structure and format (slides, full course, etc.)
-* UPDATE
+* Full course
 
 ## Learning Objectives
-* UPDATE            # list of the learning objective covered
-* UPDATE
+* Recall and utilize basic principles and methods of how informatics (data science and machine learning) can be used in materials science and engineering	Both Grad & Undergrad
+* Apply software tools related to materials informatics	Both Grad & Undergrad
+* Communicate effectively about technical work in oral and written presentation	Both Grad & Undergrad
+* Develop machine learning workflows for informatics applications in materials science and engineering	Graduate
 
 ## Introduction
-UPDATE              # 2-3 sentence description of what this is
+Introduction to applications of data science in materials science and engineering, including understanding the creation and use of modern data resources, data-centric approaches to materials, and the integration of machine learning across the materials landscape.
 
 ## Links
 UPDATE              # include links to the materials following the format below
