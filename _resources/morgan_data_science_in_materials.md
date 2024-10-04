@@ -9,12 +9,14 @@ category: [UPATE, UPDATE, UPDATE]   # list of various categories and keywords to
 * * *
 
 ## Type of Content
-* UPDATE            # list of the structure and format (slides, full course, etc.)
-* UPDATE
+* Full Course
+* Slides, Jupyter Notebooks
 
 ## Learning Objectives
-* UPDATE            # list of the learning objective covered
-* UPDATE
+* Recall and utilize basic principles and methods of how informatics (data science and machine learning) can be used in materials science and engineering	Both Grad & Undergrad
+* Apply software tools related to materials informatics	Both Grad & Undergrad
+* Communicate effectively about technical work in oral and written presentation	Both Grad & Undergrad
+* Develop machine learning workflows for informatics applications in materials science and engineering
 
 ## Introduction
 UPDATE              # 2-3 sentence description of what this is
