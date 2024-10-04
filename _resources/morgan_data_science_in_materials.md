@@ -19,11 +19,11 @@ category: [UPATE, UPDATE, UPDATE]   # list of various categories and keywords to
 * Develop machine learning workflows for informatics applications in materials science and engineering
 
 ## Introduction
-UPDATE              # 2-3 sentence description of what this is
+Introduction to applications of data science in materials science and engineering, including understanding the creation and use of modern data resources, data-centric approaches to materials, and the integration of machine learning across the materials landscape.
 
 ## Links
 UPDATE              # include links to the materials following the format below
-[UPDATE the text - This will show up as text](https://linktoyourmaterials.com)
+[Google documents folder with all the materials - DANE WORKING HERE???](https://linktoyourmaterials.com)
 
 * * *
 ### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
