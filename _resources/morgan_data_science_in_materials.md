@@ -31,7 +31,7 @@ Introduction to applications of data science in materials science and engineerin
 
 ## Links
 UPDATE              # include links to the materials following the format below
-[Google documents folder with all the materials - DANE WORKING HERE???](https://linktoyourmaterials.com)
+[Google documents folder with all the materials](https://drive.google.com/drive/folders/1wQerd-IzD7O4Xrch3ENoBBLw7gyJn1pB?usp=sharing)
 
 * * *
 ### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
